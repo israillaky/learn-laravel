@@ -22,13 +22,13 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Run command 
-composer install
-npm install or yarn 
-cp .env.example .env (This will create a copy of the .env.example file in your project and name the copy simply .env.)
-php artisan key:generate
-php artisan migrate:refresh --seed (migrate also seed) 
-login (test@example.com, pass123)
-verification can be found in logs (storage\logs\laravel.log)
+- composer install
+- npm install or yarn 
+- cp .env.example .env (This will create a copy of the .env.example file in your project and name the copy simply .env.)
+- php artisan key:generate
+- php artisan migrate:refresh --seed (migrate also seed) 
+- login (test@example.com, pass123)
+- verification can be found in logs (storage\logs\laravel.log)
 
 ## Learning Laravel
 
